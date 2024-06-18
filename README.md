@@ -1,2 +1,0 @@
-# WDD130
-HTML5/CSS
